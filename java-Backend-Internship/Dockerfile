@@ -2,8 +2,10 @@ FROM openjdk:17-jdk-slim
 
 WORKDIR /app
 
-COPY target/*.jar app.jar
+COPY . .
+
+RUN ./mvnw clean package -DskipTests
 
 EXPOSE 8080
 
-ENTRYPOINT ["java", "-jar", "app.jar"]
+ENTRYPOINT ["java", "-jar", "target/*.jar"]
