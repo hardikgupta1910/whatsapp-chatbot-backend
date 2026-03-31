@@ -134,13 +134,17 @@ https://whatsapp-chatbot-backend-zwoa.onrender.com
 ## 📷 Screenshots
 
 ### 🔹 Postman Request & Response
+![postman](https://github.com/user-attachments/assets/a14c1fc3-b883-43f6-9e4b-d43b75ce3951)
+
+![postman](https://github.com/user-attachments/assets/c10fa29f-542a-4f80-b460-e46200ea75f2)
+
 ![Postman](https://github.com/user-attachments/assets/8658bd85-d221-4b05-a68b-ecd0fb96726c)
 
 ### 🔹 Console Logs
-![Logs](https://github.com/user-attachments/assets/a14c1fc3-b883-43f6-9e4b-d43b75ce3951)
+[logs](https://github.com/user-attachments/assets/8658bd85-d221-4b05-a68b-ecd0fb96726c)
 
 ### 🔹 Application Running
-![App](https://github.com/user-attachments/assets/c10fa29f-542a-4f80-b460-e46200ea75f2)
+[application](https://github.com/user-attachments/assets/8658bd85-d221-4b05-a68b-ecd0fb96726c)
 
 
 
