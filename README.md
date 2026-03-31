@@ -59,7 +59,7 @@ POST /webhook
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/whatsapp-chatbot-springboot.git
+git clone https://github.com/hardikgupta1910/whatsapp-chatbot-backend
 ```
 
 2. Navigate to the project directory:
@@ -123,23 +123,43 @@ Incoming message: Hi
 ## 🌐 Live Deployment (Optional)
 
 ```
-https://your-app.onrender.com/webhook
+https://whatsapp-chatbot-backend-zwoa.onrender.com
 ```
 
 ---
 
 ## 📷 Screenshots
 
-(Add screenshots of Postman request, response, and console logs here)
+
+## 📷 Screenshots
+
+### 🔹 Postman Request & Response
+![Postman](https://github.com/user-attachments/assets/8658bd85-d221-4b05-a68b-ecd0fb96726c)
+
+### 🔹 Console Logs
+![Logs](https://github.com/user-attachments/assets/a14c1fc3-b883-43f6-9e4b-d43b75ce3951)
+
+### 🔹 Application Running
+![App](https://github.com/user-attachments/assets/c10fa29f-542a-4f80-b460-e46200ea75f2)
+
+
 
 ---
 
+
 ## 🎥 Demo Video
 
-(Add your 2–3 minute demo video link here)
+
+
+## 🎥 Demo Video
+
+[Watch Demo Video](https://github.com/user-attachments/assets/a6d03de3-99ee-4035-ac9a-e3fbe49790cd)
+
+
 
 ---
 
 ## 👨‍💻 Author
 
 Hardik Gupta
+hardikgupta8109@gmail.com
